@@ -90,9 +90,9 @@ body {
 
 .nav-item:hover::after, .nav-item:focus-visible::after {  width: 100%;  }
 
-.nav-item.active {  color: #FFFFFF;   }
+/* .nav-item.active {  color: #FFFFFF;   } */
 
-.nav-item.active::after {  width: 100%;  }
+/* .nav-item.active::after {  width: 100%;  } */
 
 /*=================================
     Right section
